@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lb_8</string>
+    <string name="context_menu_text"> Context Menu (Нажмите и удерживайте в течение 2 секунд)</string>
+
 </resources>
